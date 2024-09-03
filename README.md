@@ -82,6 +82,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://steamcommunity.com/profiles/76561199419472687/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
+<a href="t.me/InnocentBoy262">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/InnocentBoy-007/InnocentBoy-007/blob/main/assets/icons/telegram.png?raw=true" />
+</a>
  </p>
  
 
