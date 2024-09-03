@@ -96,7 +96,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="https://twitter.com/innocentboys29" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="innocentboys29" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/innocent boys" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="innocent boys" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/innocent-boys" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="innocent boys" height="30" width="40" /></a>
 <a href="https://fb.com/mec han" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mec han" height="30" width="40" /></a>
 <a href="https://instagram.com/innocentboy_1234567" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="innocentboy_1234567" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/innocent boy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="innocent boy" height="30" width="40" /></a>
