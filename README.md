@@ -112,6 +112,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  
+  <br/><br/><br/>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocentboy-007" alt="innocentboy-007" /></a> </p>
 
