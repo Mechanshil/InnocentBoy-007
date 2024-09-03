@@ -112,13 +112,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
+## 🙌🏻 My Contributions
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://github.com/InnocentBoy-007/InnocentBoy-007/blob/output/ocean.gif" alt="snake gif"></img>
+  <img src="https://github.com/InnocentBoy-007/InnocentBoy-007/blob/output/ocean.gif" alt="snake gif" />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocentboy-007" alt="innocentboy-007" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocentboy-007" alt="innocentboy-007" /></a> </p>
 
 <p align="center" >  
   <img src="https://komarev.com/ghpvc/?username=innocentboy-007&label=Profile%20views&color=0e75b6&style=flat" alt="innocentboy-007" />
