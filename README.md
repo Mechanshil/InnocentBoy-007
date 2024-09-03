@@ -95,21 +95,12 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:mechanshil7@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/susing7/">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561199419472687/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
-<a href="t.me/InnocentBoy262">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/InnocentBoy-007/InnocentBoy-007/blob/main/assets/icons/telegram.png?raw=true" />
-</a>
+<a href="https://twitter.com/innocentboys29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="innocentboys29" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/innocent boys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="innocent boys" height="30" width="40" /></a>
+<a href="https://fb.com/mec han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mec han" height="30" width="40" /></a>
+<a href="https://instagram.com/innocentboy_1234567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="innocentboy_1234567" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/innocent boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="innocent boy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/innocentboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="innocentboy" height="30" width="40" /></a>
  </p>
  
 
