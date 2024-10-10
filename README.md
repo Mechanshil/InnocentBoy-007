@@ -17,11 +17,13 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
+- ✨ Database Management
 - ✨ Web Development
 - ✨ Software Development
 - ✨ System Software Desingning
 - ✨ ReactJs
 - ✨ NodeJs
+- ✨ MongoDB
 
 ### - Hobbies : 
 - ✨ Watching Anime
