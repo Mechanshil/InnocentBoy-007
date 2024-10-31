@@ -20,10 +20,11 @@
 - ✨ Database Management
 - ✨ Web Development
 - ✨ Software Development
-- ✨ System Software Desingning
-- ✨ ReactJs
+- ✨ System Desingning
+- ✨ ReactJs + Vite
 - ✨ NodeJs
 - ✨ MongoDB
+- ✨ ExpressJs
 
 ### - Hobbies : 
 - ✨ Watching Anime
