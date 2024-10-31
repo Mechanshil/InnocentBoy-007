@@ -25,6 +25,8 @@
 - ✨ NodeJs
 - ✨ MongoDB
 - ✨ ExpressJs
+- ✨ Middlewares
+- ✨ Microservices
 
 ### - Hobbies : 
 - ✨ Watching Anime
